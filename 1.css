@@ -1,0 +1,53 @@
+#t1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+}
+#t1cabecera {
+    background-color: rgb(170, 169, 169);
+    text-align: left;
+}
+#t1person1, #t1person2, #t1person3, #t1person4 {
+    background-color: rgb(170, 169, 169);
+    text-align: left;
+}
+#t2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: small;
+    border: solid;
+    border-collapse: collapse;
+    font-weight: bold;
+}
+#t2 th{
+    border: solid;
+}
+#t2 tr{
+    border: solid;
+}
+#t2 td{
+    border: solid;
+}
+#t3{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: small;
+    text-align: left;
+    border-collapse: collapse;
+    border: solid;
+    border-width: thin;
+}
+#t3 th{
+    background-color: rgb(101, 167, 230);
+    border: solid;
+    border-width: thin;
+}
+#t3 tr {
+    border: solid;
+    border-width: thin;
+}
+#t3 td {
+    border: solid;
+    border-width: thin;
+}
+#t3person2, #t3person4, #t3person6, #t3person8, #t3person10 {
+    background-color: rgb(186, 219, 250);
+}

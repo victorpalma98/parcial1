@@ -1,0 +1,51 @@
+body{
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+}
+img{
+    display:block;
+    margin:auto;
+}
+h1 {
+    font-family: Montserrat, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 45px;
+    color: #666666;
+}
+.categoria{
+    font-family: Montserrat, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    color: #666666;
+    text-transform: uppercase;
+}
+ol, ul{
+    font-family: Montserrat, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #666666; 
+}
+h2{
+    font-family: Montserrat, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    color: #666666; 
+}
+p{
+    font-family: Montserrat, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #666666; 
+}
